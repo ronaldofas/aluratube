@@ -1,0 +1,26 @@
+{
+    "name": "Ronaldo Silva",
+    "job": "Senior Software Developer",
+    "github": "ronaldofas",
+    "playlists":{
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail video"
+            },
+            {
+                "title": "Video 2 - Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail video"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail video"
+            }
+        ]
+    }
+}
