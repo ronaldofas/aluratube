@@ -2,24 +2,137 @@
     "name": "Ronaldo Silva",
     "job": "Senior Software Developer",
     "github": "ronaldofas",
-    "playlists":{
+    "playlists": {
         "jogos": [
             {
-                "title": "Algum titulo",
-                "url": "url",
-                "thumb": "thumbnail video"
+                "title": "The Legend of Zelda #1 - O COMEÇO DE TUDO!",
+                "url": "https://www.youtube.com/watch?v=kvvFN6CLVFM",
+                "thumb": "https://img.youtube.com/vi/kvvFN6CLVFM/maxresdefault.jpg"
             },
             {
-                "title": "Video 2 - Algum titulo",
-                "url": "url",
-                "thumb": "thumbnail video"
+                "title": "The Legend of Zelda #2 - A ÁGUIA",
+                "url": "https://www.youtube.com/watch?v=jasXE3GFuek",
+                "thumb": "https://img.youtube.com/vi/jasXE3GFuek/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #3 - A LUA",
+                "url": "https://www.youtube.com/watch?v=IfX4ylUTbrk",
+                "thumb": "https://img.youtube.com/vi/IfX4ylUTbrk/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #4 - MANJI",
+                "url": "https://www.youtube.com/watch?v=0wj83VZq9pY",
+                "thumb": "https://img.youtube.com/vi/0wj83VZq9pY/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #5 - A COBRA",
+                "url": "https://www.youtube.com/watch?v=cxnc3plQwhQ",
+                "thumb": "https://img.youtube.com/vi/cxnc3plQwhQ/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #6 - O LAGARTO",
+                "url": "https://www.youtube.com/watch?v=Enf0lpgL4i0",
+                "thumb": "https://img.youtube.com/vi/Enf0lpgL4i0/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #7 - O DRAGÃO",
+                "url": "https://www.youtube.com/watch?v=LGI4osum8SI",
+                "thumb": "https://img.youtube.com/vi/LGI4osum8SI/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #8 - O DEMÔNIO",
+                "url": "https://www.youtube.com/watch?v=Q4EATpDJRYc",
+                "thumb": "https://img.youtube.com/vi/Q4EATpDJRYc/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda #9 - O LEÃO",
+                "url": "https://www.youtube.com/watch?v=XmLoK1MSxbk",
+                "thumb": "https://img.youtube.com/vi/XmLoK1MSxbk/maxresdefault.jpg"
+            },
+            {
+                "title": "The Legend of Zelda - A MONTANHA DA MORTE",
+                "url": "https://www.youtube.com/watch?v=ZfZykO4ChW0",
+                "thumb": "https://img.youtube.com/vi/ZfZykO4ChW0/maxresdefault.jpg"
             }
         ],
-        "front-end": [
+        "Músicas para adorar": [
             {
-                "title": "Algum titulo",
-                "url": "url",
-                "thumb": "thumbnail video"
+                "title": "Isaías 53 / Glorificar Cristo, Edificar a Igreja - Projeto Sola",
+                "url": "https://www.youtube.com/watch?v=7clLRGKd1q0",
+                "thumb": "https://img.youtube.com/vi/7clLRGKd1q0/maxresdefault.jpg"
+            },
+            {
+                "title": "Colossenses 1 e Da Vida, o Melhor - Advento Tour em São Paulo - Projeto Sola",
+                "url": "https://www.youtube.com/watch?v=Xzbj3r3h7ps",
+                "thumb": "https://img.youtube.com/vi/Xzbj3r3h7ps/maxresdefault.jpg"
+            },
+            {
+                "title": "Olhos Abertos",
+                "url": "https://www.youtube.com/watch?v=xmJCx5Y4qLg",
+                "thumb": "https://img.youtube.com/vi/xmJCx5Y4qLg/maxresdefault.jpg"
+            },
+            {
+                "title": "Isaías 9 - Rodolfo Abrantes // Fornalha Dunamis - Julho 2015",
+                "url": "https://www.youtube.com/watch?v=XPxUfGfWtRA",
+                "thumb": "https://img.youtube.com/vi/XPxUfGfWtRA/maxresdefault.jpg"
+            },
+            {
+                "title": "Oficina G3 - Incondicional (Clipe Oficial MK Music)",
+                "url": "https://www.youtube.com/watch?v=oYuIZLGrmcg",
+                "thumb": "https://img.youtube.com/vi/oYuIZLGrmcg/maxresdefault.jpg"
+            },
+            {
+                "title": "Oficina G3 | Aos Pés da Cruz",
+                "url": "https://www.youtube.com/watch?v=W0NJAG4o8H0",
+                "thumb": "https://img.youtube.com/vi/W0NJAG4o8H0/maxresdefault.jpg"
+            },
+            {
+                "title": "PG - Meu Universo - DVD Eu Sou Livre (Ao Vivo)",
+                "url": "https://www.youtube.com/watch?v=KEDvwgqDPVY",
+                "thumb": "https://img.youtube.com/vi/KEDvwgqDPVY/maxresdefault.jpg"
+            },
+            {
+                "title": "PG - Quem Sou Eu - DVD Eu Sou Livre (Ao Vivo)",
+                "url": "https://www.youtube.com/watch?v=LFASRxvhg1k",
+                "thumb": "https://img.youtube.com/vi/LFASRxvhg1k/maxresdefault.jpg"
+            },
+            {
+                "title": "Renascer Praise - 1000 Graus",
+                "url": "https://www.youtube.com/watch?v=QTC7_DVENZA",
+                "thumb": "https://img.youtube.com/vi/QTC7_DVENZA/maxresdefault.jpg"
+            },
+            {
+                "title": "Quatro por um - Um chamado - Clipe Oficial",
+                "url": "https://www.youtube.com/watch?v=WulS7t7CRCo",
+                "thumb": "https://img.youtube.com/vi/WulS7t7CRCo/maxresdefault.jpg"
+            }
+        ]
+    },
+    "favoritos": {
+        "pessoas": [
+            {
+                "person_name": "Mario Souto - Dev Soutinho",
+                "url": "https://twitter.com/omariosouto",
+                "photo": "/mario.jpg",
+                "twitter_username": "@omariosouto"
+            },
+            {
+                "person_name": "Paulo Silveira",
+                "url": "https://twitter.com/paulo_caelum",
+                "photo": "/peas.jpg",
+                "twitter_username": "@paulo_caelum"
+            },
+            {
+                "person_name": "Maurício Linhares",
+                "url": "https://twitter.com/mauriciojr",
+                "photo": "/linhares.jpg",
+                "twitter_username": "@mauriciojr"
+            },
+            {
+                "person_name": "Roberta Arcoverde",
+                "url": "https://twitter.com/rla4",
+                "photo": "/roberta.jpg",
+                "twitter_username": "@rla4"
             }
         ]
     }
