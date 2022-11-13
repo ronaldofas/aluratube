@@ -111,24 +111,28 @@
     "favoritos": {
         "pessoas": [
             {
+                "id": 1,
                 "person_name": "Mario Souto - Dev Soutinho",
                 "url": "https://twitter.com/omariosouto",
                 "photo": "/mario.jpg",
                 "twitter_username": "@omariosouto"
             },
             {
+                "id": 2,
                 "person_name": "Paulo Silveira",
                 "url": "https://twitter.com/paulo_caelum",
                 "photo": "/peas.jpg",
                 "twitter_username": "@paulo_caelum"
             },
             {
+                "id": 3,
                 "person_name": "Maurício Linhares",
                 "url": "https://twitter.com/mauriciojr",
                 "photo": "/linhares.jpg",
                 "twitter_username": "@mauriciojr"
             },
             {
+                "id": 4,
                 "person_name": "Roberta Arcoverde",
                 "url": "https://twitter.com/rla4",
                 "photo": "/roberta.jpg",
