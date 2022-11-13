@@ -16,9 +16,10 @@ export default function Favoritos(props) {
       <StyledPersons>
         {persons.map((person) => {
             return (
-                <section>
-                    <a href={person.url}>
-                        <img src={person.photo} className="user-info" />{person.twitter_username}
+                <section key={person}>
+                    <a key={person.url} href={person.url}>
+                        <img key={person.photo} src={person.photo} className="user-info" />
+                        {person.twitter_username}
                     </a>
                 </section>
             )
